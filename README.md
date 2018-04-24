@@ -1,24 +1,14 @@
-# README
+# Hey Hey correcteur de ce matin 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bon alors pour faire fonctionner et checkersi la BDD marche bien
+Tu vas devoir faire un bundle install ;) 
 
-Things you may want to cover:
+* Les tables users, posts, categories sont liés 
 
-* Ruby version
+* Le seed fake bien 100 users
 
-* System dependencies
+* Le reste n'est pas fait 
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Des bisous :-*
